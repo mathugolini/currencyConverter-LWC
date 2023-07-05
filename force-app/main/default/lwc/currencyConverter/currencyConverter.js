@@ -5,7 +5,7 @@ export default class CurrencyConverterApp extends LightningElement {
   currencyImage = currencyConverterAssets +'/currencyConverterAssets/currency.svg'
   countryList = countryCodeList
   countryFrom = "USD"
-  countryTo = "AUD"
+  countryTo = "BRL"
   amount =''
   result
   error 
@@ -14,6 +14,8 @@ export default class CurrencyConverterApp extends LightningElement {
     console.log("name", name)
     console.log("value", value)
     this[name] = value
+    this.result=''
+    this.error=''
   }
   submitHandler(event){
     event.preventDefault()
