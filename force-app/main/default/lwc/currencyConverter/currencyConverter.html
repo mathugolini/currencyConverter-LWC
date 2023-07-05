@@ -9,7 +9,7 @@
              <lightning-input type="number" name="amount" label="Amount" 
              placeholder="Amount" variant="label-hidden" required 
              class="slds-m-vertical_x-large"></lightning-input>
-             <div class="slds-grid slds-gutters">
+             <div class="slds-grid slds-gutters baseline slds-m-vertical_x-large">
                <div class="slds-col">
                 <lightning-combobox
                   name="countryFrom"
@@ -20,7 +20,7 @@
                   options={countryList}
                   onchange={handleChange} ></lightning-combobox>
                </div>
-               <div class="slds-col">
+               <div class="slds-col slds-text-align_center">
                  <lightning-icon icon-name='action:change_record_type' alternative-text='change_record_type'
                   size='small' title='Convert icon'></lightning-icon>
                </div>
