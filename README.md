@@ -1,6 +1,6 @@
 :heavy_check_mark: Currency Converter 
 
-Projeto FrontEnd Conversor de Moedas - Consumação de API para retornar em tempo real valor da moeda selecionada pelo usuário
+Projeto FrontEnd Conversor de Moedas - Consumação de API para retornar em tempo real valor da moeda do país selecionada pelo usuário
 
 :wrench: Construção do app de Currency Converter em inglês 
 
