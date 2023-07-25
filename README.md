@@ -1,22 +1,12 @@
-<<<<<<< HEAD
-# Salesforce DX Project: Next Steps
+:heavy_check_mark: Currency Converter 
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Projeto FrontEnd Conversor de Moedas - Consumação de API para retornar em tempo real valor da moeda selecionada pelo usuário
 
-## How Do You Plan to Deploy Your Changes?
+:wrench: Construção do app de Currency Converter em inglês 
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+:art: Componentes HTML, CSS e JS 
 
-## Configure Your Salesforce DX Project
+:arrow_down: Segue link abaixo para visualização pública do projeto em org Salesforce
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+https://hugolini-portifolio-dev-ed.develop.my.site.com/currency-converter
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
-=======
-# currencyConverter-LWC
->>>>>>> 6b1fd7a225626906814f2ad47bf84907c645a5df
